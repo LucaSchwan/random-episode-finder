@@ -1,4 +1,4 @@
-# [random-episode-picker](https://random-episode-d8230.web.app/)
+# [random-episode-picker](https://random-episode-find.web.app/)
 
 this website generates a random episode from one of the series of the list.
 read under the to-dos for some features &darr;
