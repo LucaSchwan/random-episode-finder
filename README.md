@@ -5,7 +5,7 @@ read under the to-dos for some features &darr;
 
 ## currently-working-on:
 
-*[ ] css styling
+
 
 ### code-to-do:
 
@@ -16,7 +16,8 @@ read under the to-dos for some features &darr;
 
 ## features:
 
-the big bang theory                                                                        
-how i met your mother
+the big bang theory                                                                  
+how i met your mother                                                   
+brookly 99
 
 
