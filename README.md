@@ -9,10 +9,10 @@ read under the to-dos for some features &darr;
 
 ### code-to-do:
 
-*[x] write simple methods                                            
-*[x] do frontend                                                     
-*[x] connect backend  
-*[x] css styling                                               
+* [x] write simple methods                                            
+* [x] do frontend                                                     
+* [x] connect backend  
+* [x] css styling                                               
 
 ## features:
 
