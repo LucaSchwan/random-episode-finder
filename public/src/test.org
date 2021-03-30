@@ -10,7 +10,7 @@ const tbbt = [
   24,
   24,
   24,
-  24
+  24,
 ]; 
 
 const himym = [
@@ -22,7 +22,7 @@ const himym = [
   24,
   24,
   24,
-  24
+  24,
 ]
 
 const b99 = [
@@ -32,16 +32,11 @@ const b99 = [
   22,
   22,
   18,
-  13
+  13,
 ]
 
 const ng = [
-    24,	
-    25,
-    22,
-    22,
-    22,
-    8	
+
 ]
 
-export { tbbt, himym, b99 , ng};
+export { tbbt, himym, b99 };

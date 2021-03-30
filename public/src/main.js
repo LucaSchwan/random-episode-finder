@@ -22,3 +22,4 @@ const setSeasonEpisodes = (ev) => {
 }
 
 document.addEventListener('DOMContentLoaded', init) ; 
+
