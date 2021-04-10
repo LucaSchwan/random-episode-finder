@@ -1,4 +1,4 @@
-import { tbbt, himym, b99 } from './series.js';
+import { tbbt, himym, b99 , ng } from './series.js';
 
 function getRandomEpisode (series) {
   // get random number for the seasons

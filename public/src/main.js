@@ -12,7 +12,7 @@ const setSeasonEpisodes = (ev) => {
   // switch (series) {
   //   case 'tbbt': 
   //     getRandomEpisode('tbbt');
-  //     break;
+    //     break;
   //   default:
   //     console.log('series not available')
   // }
