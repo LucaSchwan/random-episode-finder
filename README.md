@@ -1,23 +1,10 @@
-# [random-episode-picker](https://random-episode-finder.web.app/)
+# [random-episode-picker](https://lucaschwan.github.io/random-episode-finder/)
 
-this website generates a random episode from one of the series of the list.
-read under the to-dos for some features &darr;
+This website generates a random episode from one of the series of the list. It is hosted on github pages but it is just plain HTML, JS and CSS so it can be started with any browser by just opening the index.html in it.
 
-## currently-working-on:
+## Series:
 
-
-
-### code-to-do:
-
-* [x] write simple methods                                            
-* [x] do frontend                                                     
-* [x] connect backend  
-* [x] css styling                                               
-
-## features:
-
-the big bang theory                                                                  
-how i met your mother                                                   
-brookly 99                                                           
-new girl
-
+- The Big Bang Theory                                                                  
+- How I Met Your m Mother                                                   
+- Brooklyn 99                                                           
+- New Girl
